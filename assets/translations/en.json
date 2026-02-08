@@ -1,3 +1,15 @@
 {
-  "leaves" : "Request for leave"
+  "leaves" : "Request for leave",
+  "select_leave_date": "Select Leave Date",
+  "leave_range": "Leave Range",
+  "select_range": "Select range",
+  "total_working_days": "Total Days: {}",
+  "weekend_warning": "Selected days are weekend",
+  "employee_name": "Employee Name",
+  "job_title": "Job Title",
+  "employee_id": "Employee ID",
+  "leave_balance": "Leave Balance",
+  "leave_type": "Leave Type",
+  "select": "Select",
+  "annual": "Annual"
 }

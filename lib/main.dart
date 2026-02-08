@@ -9,7 +9,7 @@ void main() async {
   runApp(EasyLocalization(
       supportedLocales: [Locale('en'), Locale('ar')],
       path: 'assets/translations',
-    fallbackLocale: Locale('er'),
+    fallbackLocale: Locale('ar'),
     startLocale: Locale('ar'),
     child: ScreenUtilInit(
       designSize: Size(1920, 1080),

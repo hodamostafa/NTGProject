@@ -1,3 +1,16 @@
 {
-  "leaves" : "طلب إجازة"
+  "leaves" : "طلب إجازة",
+
+  "select_leave_date": "اختيار تاريخ الإجازة",
+  "leave_range": "مدة الإجازة",
+  "select_range": "اختر المدة",
+  "total_working_days": "عدد أيام : {}",
+  "weekend_warning": "الأيام المختارة عطلة نهاية الأسبوع",
+  "employee_name": "اسم الموظف",
+  "job_title": "المسمى الوظيفي",
+  "employee_id": "رقم الموظف",
+  "leave_balance": "رصيد الإجازات",
+  "leave_type": "نوع الإجازة",
+  "select": "اختيار",
+  "annual": "سنوية"
 }
