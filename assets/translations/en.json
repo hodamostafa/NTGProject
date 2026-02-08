@@ -11,5 +11,10 @@
   "leave_balance": "Leave Balance",
   "leave_type": "Leave Type",
   "select": "Select",
-  "annual": "Annual"
+  "annual": "Annual",
+  "confirm": "Confirm",
+  "start_date": "Start Date",
+  "end_date": "End Date",
+  "total_days": "Total Days",
+  "request_details": "Request Details"
 }
