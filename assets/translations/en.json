@@ -1,3 +1,12 @@
 {
-  "leaves" : "Request for leave"
+  "leaves" : "Request for leave",
+  "welcome_sentence": "Welcome to the leave request system for the Royal Protocol of the Kingdom of Saudi Arabia",
+  "please_select_employee": "Please select one of the staff members",
+  "return" : "Return",
+  "employee_name": "Employee Name",
+  "job_title": "Job Title",
+  "employee_num": "Employee Number",
+  "leave_balance": "Leave Balance",
+  "choose_leave_type":"Choose your vacation type or search for it",
+  "search": "Search"
 }

@@ -1,7 +1,9 @@
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:project/screens/first_screen/logo.dart';
+import 'package:project/screens/Vacations/vacations.dart';
+import 'package:project/screens/employees/employees.dart';
+import 'package:project/screens/main_screen/main_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -12,7 +14,7 @@ void main() async {
     fallbackLocale: Locale('er'),
     startLocale: Locale('ar'),
     child: ScreenUtilInit(
-      designSize: Size(1920, 1080),
+      designSize: Size(1080, 1920),
       minTextAdapt: true,
       splitScreenMode: true,
       builder: (context, child) {
@@ -34,7 +36,7 @@ class MyApp extends StatelessWidget {
       localizationsDelegates: context.localizationDelegates,
       supportedLocales: context.supportedLocales,
       locale: context.locale,
-      home: firstScreen(),
+      home: FirstScreen(),
     );
   }
 }
